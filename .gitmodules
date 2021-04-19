@@ -1,0 +1,75 @@
+[submodule "cs464"]
+	path = cs464
+	url = git@github.com:lyellread/cs464.git
+[submodule "cs312"]
+	path = cs312
+	url = git@github.com:lyellread/cs312.git
+[submodule "cs477"]
+	path = cs477
+	url = git@github.com:lyellread/cs477.git
+[submodule "geo308"]
+	path = geo308
+	url = git@github.com:lyellread/geo308.git
+[submodule "cs372"]
+	path = cs372
+	url = git@github.com:lyellread/cs372.git
+[submodule "cs321h"]
+	path = cs321h
+	url = git@github.com:lyellread/cs321h.git
+[submodule "st314"]
+	path = st314
+	url = git@github.com:lyellread/st314.git
+[submodule "mth341"]
+	path = mth341
+	url = git@github.com:lyellread/mth341.git
+[submodule "mth254h"]
+	path = mth254h
+	url = git@github.com:lyellread/mth254h.git
+[submodule "mth231"]
+	path = mth231
+	url = git@github.com:lyellread/mth231.git
+[submodule "cs444"]
+	path = cs444
+	url = git@github.com:lyellread/cs444.git
+[submodule "cs419cand"]
+	path = cs419cand
+	url = git@github.com:lyellread/cs419cand.git
+[submodule "cs391"]
+	path = cs391
+	url = git@github.com:lyellread/cs391.git
+[submodule "cs381"]
+	path = cs381
+	url = git@github.com:lyellread/cs381.git
+[submodule "cs370"]
+	path = cs370
+	url = git@github.com:lyellread/cs370.git
+[submodule "cs362"]
+	path = cs362
+	url = git@github.com:lyellread/cs362.git
+[submodule "cs361"]
+	path = cs361
+	url = git@github.com:lyellread/cs361.git
+[submodule "cs344"]
+	path = cs344
+	url = git@github.com:lyellread/cs344.git
+[submodule "cs325"]
+	path = cs325
+	url = git@github.com:lyellread/cs325.git
+[submodule "cs290"]
+	path = cs290
+	url = git@github.com:lyellread/cs290.git
+[submodule "cs271"]
+	path = cs271
+	url = git@github.com:lyellread/cs271.git
+[submodule "cs261"]
+	path = cs261
+	url = git@github.com:lyellread/cs261.git
+[submodule "cs162"]
+	path = cs162
+	url = git@github.com:lyellread/cs162.git
+[submodule "cs161"]
+	path = cs161
+	url = git@github.com:lyellread/cs161.git
+[submodule "ba260h"]
+	path = ba260h
+	url = git@github.com:lyellread/ba260h.git
