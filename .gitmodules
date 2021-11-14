@@ -73,3 +73,9 @@
 [submodule "ba260h"]
 	path = ba260h
 	url = git@github.com:lyellread/ba260h.git
+[submodule "cs352"]
+	path = cs352
+	url = git@github.com:lyellread/cs352.git
+[submodule "eng104"]
+	path = eng104
+	url = git@github.com:lyellread/eng104.git
