@@ -79,3 +79,12 @@
 [submodule "eng104"]
 	path = eng104
 	url = git@github.com:lyellread/eng104.git
+[submodule "cs427"]
+	path = cs427
+	url = git@github.com:lyellread/cs427.git
+[submodule "cs499ir"]
+	path = cs499ir
+	url = git@github.com:lyellread/cs499ir.git
+[submodule "cs340"]
+	path = cs340
+	url = git@github.com:lyellread/cs340.git
