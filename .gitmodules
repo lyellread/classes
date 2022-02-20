@@ -88,3 +88,6 @@
 [submodule "cs340"]
 	path = cs340
 	url = git@github.com:lyellread/cs340.git
+[submodule "hc407-scifi"]
+	path = hc407-scifi
+	url = git@github.com:lyellread/hc407-scifi.git
